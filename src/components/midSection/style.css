@@ -1,0 +1,10 @@
+.midSection {
+    padding: 20px;
+    border-top: 3px dashed tomato;
+    border-bottom: 3px dashed tomato;
+    display: flex;
+    /* flex-direction: column; */
+    width: 90%;
+    align-items: center;
+    justify-content: space-around;
+}

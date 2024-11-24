@@ -1,0 +1,17 @@
+.bookCard img {
+    height: 233px;
+    width: auto;
+}
+
+.bookImage {
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px;
+}
+.bookCard {
+    height: 500px;
+    width: 300px;
+    background-color: #ffffa0;
+}
